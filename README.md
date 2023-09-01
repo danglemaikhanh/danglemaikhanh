@@ -12,8 +12,8 @@
 
 ### :woman_technologist: About Me:
 <p>I'm a passionate web developer from Vietnam.</p>
-- :telescope: I am a student who wants to become a software engineer and contribute to the front-end and back-end for building web applications.<br>
-- :zap: In my free time, I draw and work on my own project.<br>
+:telescope: I am a student who wants to become a software engineer and contribute to the front-end and back-end for building web applications.<br>
+:zap: In my free time, I draw and work on my own project.<br>
 
 
 ### :hammer_and_wrench: Languages and Tools:
