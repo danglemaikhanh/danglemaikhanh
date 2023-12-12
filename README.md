@@ -10,13 +10,13 @@
 
 
 
-### :smirk_cat: About Me:
+### About Me:
 <p>I'm a passionate web developer from Vietnam.</p>
 :telescope: I am a student who wants to become a software engineer and contribute to the front-end and back-end for building web applications.<br>
 :zap: In my free time, I draw and work on my own project.<br>
 
 
-### :wrench: Languages and Tools:
+### Languages and Tools:
 <p>Through the current studies I have learned the following language</p>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
