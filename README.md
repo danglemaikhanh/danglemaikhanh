@@ -31,7 +31,6 @@
 
 
 ### My Stats:
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=danglemaikhanh&" alt="danglemaikhanh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danglemaikhanh&show_icons=true&locale=en&layout=compact" alt="danglemaikhanh" /></p>
 
 
