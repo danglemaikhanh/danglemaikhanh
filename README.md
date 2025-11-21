@@ -18,9 +18,11 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
+<p>Through the current studies I have learned the following programming languages and development tools</p>
+
 ###
 
-<p align="left">Frontend Tech-Stack Knowledge</p>
+<h4 align="left">Frontend Tech-Stack Knowledge</h4>
 
 ###
 
@@ -40,7 +42,7 @@
 
 ###
 
-<p align="left">Backend Tech-Stack Knowledge</p>
+<h4 align="left">Backend Tech-Stack Knowledge</h4>
 
 ###
 
