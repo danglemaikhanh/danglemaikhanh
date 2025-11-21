@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a passionate junior web developer from Vietnam. I currently live in Berlin, Germany and have successfully completed my bachelor's degree in media informatics.<br><br>- 🔭 I’m working as working student at Fraunhofer FOKUS atm<br>- 📚 I'm currently learning to become a full-stack developer, specialising in Java Spring Boot and JS/TS Angular.<br>- ⚡ In my free time, I enjoy drawing, playing games with friends, and working on my own projects.<br><br>My strong suit is currently front-end development, but I want to learn and practise my back-end skills.</p>
+<p align="left">I'm a passionate junior web developer from Vietnam. I currently live in Berlin, Germany and have successfully completed my bachelor's degree in media informatics.<br><br>- 🔭 I’m working as working student at Fraunhofer FOKUS atm.<br>- 📚 I'm currently learning independently to become a full-stack developer, specialising in Java Spring Boot and JS/TS Angular.<br>- ⚡ In my free time, I enjoy drawing, playing games with friends, and working on my own projects.<br><br>My strong suit is currently front-end development, but I want to learn and practise my back-end skills.</p>
 
 ###
 
